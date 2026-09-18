@@ -208,16 +208,6 @@ The support-ticket transformation workflow was designed using **AWS Glue Visual 
 
 ---
 
-## 🔐 Security Note
-
-Credentials, passwords, access keys, tokens, and sensitive configuration values are excluded from the repository.
-
-Project-specific infrastructure identifiers in public SQL scripts are replaced with placeholders where appropriate.
-
-> **Note:** This project is intended for learning and portfolio purposes. Sensitive or real customer information should not be published in a public repository.
-
----
-
 ## 🌟 About Me
 
 Hi! I’m a Computer Engineering student with a strong interest in **Data Analytics and Data Engineering**.  
